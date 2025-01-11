@@ -1,0 +1,7 @@
+pandas
+numpy
+aiohttp
+jupyter
+pytest
+python-dotenv
+
